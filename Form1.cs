@@ -168,7 +168,7 @@ namespace LBS
             listBox1.Items.Clear();
             foreach (string s in cont)
             {
-                if(s.ToLower().Contains(textBox1.Text.ToLower()))
+                if(s.ToLower().Replace("@*@","").Contains(textBox1.Text.ToLower()))
                 {
                     listBox1.Items.Add(s);
                 }
