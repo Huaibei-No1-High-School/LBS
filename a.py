@@ -22,3 +22,5 @@ if __name__ == '__main__':
     data = output.getvalue()[14:]
     output.close()
     setImage(data)
+
+Test
