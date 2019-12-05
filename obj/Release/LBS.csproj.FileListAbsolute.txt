@@ -1,0 +1,14 @@
+C:\Users\orang\OneDrive\PROJECT\LBS\bin\Release\LBS.exe.config
+C:\Users\orang\OneDrive\PROJECT\LBS\bin\Release\LBS.exe
+C:\Users\orang\OneDrive\PROJECT\LBS\bin\Release\LBS.pdb
+C:\Users\orang\OneDrive\PROJECT\LBS\bin\Release\AipSdk.dll
+C:\Users\orang\OneDrive\PROJECT\LBS\bin\Release\Newtonsoft.Json.dll
+C:\Users\orang\OneDrive\PROJECT\LBS\bin\Release\Newtonsoft.Json.xml
+C:\Users\orang\OneDrive\PROJECT\LBS\obj\Release\LBS.csprojAssemblyReference.cache
+C:\Users\orang\OneDrive\PROJECT\LBS\obj\Release\LBS.Form1.resources
+C:\Users\orang\OneDrive\PROJECT\LBS\obj\Release\LBS.Properties.Resources.resources
+C:\Users\orang\OneDrive\PROJECT\LBS\obj\Release\LBS.Resource1.resources
+C:\Users\orang\OneDrive\PROJECT\LBS\obj\Release\LBS.csproj.GenerateResource.cache
+C:\Users\orang\OneDrive\PROJECT\LBS\obj\Release\LBS.csproj.CopyComplete
+C:\Users\orang\OneDrive\PROJECT\LBS\obj\Release\LBS.exe
+C:\Users\orang\OneDrive\PROJECT\LBS\obj\Release\LBS.pdb
