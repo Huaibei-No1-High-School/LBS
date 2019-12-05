@@ -115,6 +115,7 @@ namespace LBS
             }
             //更新List
             updatelist();
+            updatelist();
         }
         private void button1_Click(object sender, EventArgs e)
         {
@@ -137,6 +138,7 @@ namespace LBS
             Console.WriteLine("!");
             string tpath = ((System.Array)e.Data.GetData(DataFormats.FileDrop)).GetValue(0).ToString();
             addimg(tpath);
+            Checknewfile();
         }
         private void updatenewfiles()
         {
@@ -166,7 +168,7 @@ namespace LBS
             listBox1.Items.Clear();
             foreach (string s in cont)
             {
-                if(s.Contains(textBox1.Text))
+                if(s.ToLower().Contains(textBox1.Text.ToLower()))
                 {
                     listBox1.Items.Add(s);
                 }
